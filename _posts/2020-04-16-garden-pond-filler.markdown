@@ -2,7 +2,8 @@
 layout: post
 title:  "Garden Pond Filler"
 date:   2020-04-16 13:14:24 -0400
-categories: jekyll update
+series: "pond filler"
+categories: home automation
 ---
 
 # A summer project.
