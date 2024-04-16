@@ -6,7 +6,7 @@ permalink: /directory/
 
 
 <ul>
-{% for member in site.data.members %}
+{% for member in site.data.directory %}
   <li>
     <a href="https://github.com/{{ member.github }}">
       {{ member.name }}
