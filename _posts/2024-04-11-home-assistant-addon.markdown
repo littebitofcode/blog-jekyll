@@ -2,8 +2,8 @@
 layout: post
 title:  "Home Assistant Addon"
 date:   2024-04-11 09:34:33 -0400
-series: "HomeAssitant AddOn"
-categories: home assistant
+series: "HomeAssistant AddOn"
+categories: home-assistant
 ---
 
 For DIY home automation, HomeAssistant is indeed a fantastic option: functional, well-supported, and highly extensible. However, as a coder, I occasionally encounter frustrations, especially during debugging or when integrating extensions. To address this, I've conceived a straightforward standalone wrapper. 

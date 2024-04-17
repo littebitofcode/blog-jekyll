@@ -3,7 +3,7 @@ layout: post
 title:  "3D Print Workbench"
 date:   2024-04-12 11:04:26 -0400
 series: "3D Print Workbench"
-categories: 3D Printing
+categories: 3D-printing
 ---
 
 Home 3D printing has become increasingly accessible and enjoyable. A plethora of software options cater to different design and printing stages, each with its own following and advantages. 

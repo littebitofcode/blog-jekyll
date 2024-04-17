@@ -3,7 +3,7 @@ layout: post
 title:  "Jekyll Site Utilities"
 date:   2024-03-07 12:29:48 -0400
 series: "Jekyll Site Utilities"
-categories: web publishing
+categories: web-publishing
 ---
 
 
