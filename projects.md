@@ -6,9 +6,11 @@ permalink: /projects/
 
 A summary list of projects which are being blogged about
 
-1. Home and Garden Controllers
-2. Software Synth Host box
-3. Simple MIDI sequencer
-4. Garden Pond Filler
-5. This blog
+1. Wrapper for extensions to HomeAssistant
+2. 3D printing workbench
+3. VST effects pedal board
+4. Simple inspirations website to aggregate Pinterest, Youtube etc - for music (Noisyvolt)
+also to crawl and gather content
+5. This blog - use of Blazor to generate content
+6. Business directory - with 5.
 
